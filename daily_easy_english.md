@@ -1,4 +1,8 @@
 Daily Easy English 
+音   确认音频   50
+字   确认文字   0
+意   确认意思   0
+默   会听写了   0
 
 #### Daily Easy English Expression 001 
 
