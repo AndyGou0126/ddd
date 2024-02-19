@@ -1,6 +1,6 @@
 Daily Easy English 
 音   确认音频   50
-字   确认文字   0
+字   确认文字   50
 意   确认意思   0
 默   会听写了   0
 
@@ -44,7 +44,7 @@ Since college. I used to play every day!
 
 You wanna play some basketball this weekend? 
 
-I’d love to, but y knee went out. 
+I’d love to, but my knee went out. 
 
 Ouch! How did that happen? 
 
@@ -280,7 +280,7 @@ We have to.
 
 How do you spell “raisin”? With an “I” or an “e”? 
 
-An “I”. 
+An “i”. 
 
 What about “streusel”? Two “s “s? 
 
@@ -516,7 +516,7 @@ I feel terrible.
 
 Are you coming down with a cold? 
 
-I think so. I’d better by lots of vitamin C. 
+I think so. I’d better buy lots of vitamin C. 
 
  
 
