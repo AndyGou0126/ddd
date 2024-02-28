@@ -1,5 +1,5 @@
 Daily Easy English 
-音   确认音频   50
+音   确认音频   250        // 后面的改过了，自己在 从新听 253 这个错了就跳过了   335 错误了
 字   确认文字   50
 意   确认意思   0
 默   会听写了   0
@@ -724,9 +724,7 @@ battle, you know.
 
 ### Daily Easy English Expression 059 
 
-Doing YouTube videos every day is tough, isn’t 
-
-it? 
+Doing YouTube videos every day is tough, isn’t it? 
 
 It is. It take a lot of time.  
 
