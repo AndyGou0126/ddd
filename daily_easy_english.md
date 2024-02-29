@@ -1,6 +1,5 @@
 Daily Easy English 
-音   确认音频   451        // 335重复了好几遍 需要改音频 // 后面的改过了 // 自己在 从新听 253 这个错了就跳过了   335 错误了
-    361 文字错了
+音   确认音频           // 301 351 451 501 551   
 字   确认文字   50
 意   确认意思   0
 默   会听写了   0
@@ -5089,17 +5088,15 @@ Yikes!
 
 ### Daily Easy English Expression  361
 
-Look at this sweater.
+Did you get that car
 
-Nice. Is it wool?
+you were talking about?
 
-100%. It's beautiful.
+No.It didn't pan out.
 
-What are they asking?
+What happened?
 
-Only 300 dollars!
-
-Yikes!
+The guy was asking too much.
 
 ### Daily Easy English Expression  362
 
