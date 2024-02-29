@@ -1,6 +1,6 @@
 Daily Easy English 
 音   确认音频           // 301 351 451 501 551   
-字   确认文字   50
+字   确认文字   60
 意   确认意思   0
 默   会听写了   0
 
@@ -646,7 +646,7 @@ Your spelling is wrong.
 
 Where? 
 
-Here. You wrote “practice”, but it should be practice. 
+Here. You wrote “practise”, but it should be practice. 
 
 Oh! Thanks for keeping me on my toes. 
 
@@ -680,7 +680,7 @@ A hamburger.
 
 Anything else? 
 
-Well, please cook it medium rare. Toast the buns and butter the bottom bun. I’d like twice as much ketchup as mustard. Three dill pickle slice. No cheese. A thin tomato and one strip of bacon. Am I being too picky? 
+Well, please cook it medium rare. Toast the buns and butter the bottom bun. I’d like twice as much ketchup as mustard. Three dill pickle slices. No cheese. A thin tomato and one strip of bacon. Am I being too picky? 
 
 No, not at all, sir. 
 
@@ -724,7 +724,7 @@ battle, you know.
 
 ### Daily Easy English Expression 059 
 
-Doing YouTube videos every day is tough, isn’t it? 
+Doing YouTube videos everyday is tough, isn’t it? 
 
 It is. It take a lot of time.  
 
