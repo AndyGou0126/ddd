@@ -1,8 +1,9 @@
 Daily Easy English 
-音   确认音频           // 451 501 551   
+音   确认音频           // 551   
 字   确认文字   60
 意   确认意思   0
 默   会听写了   0
+
 
 #### Daily Easy English Expression 001 
 
