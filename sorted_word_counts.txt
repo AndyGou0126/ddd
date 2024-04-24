@@ -495,18 +495,18 @@ pretty          漂亮的
 dialed          拨打的
 piece           片
 answered        回答了
-certainly       回答了
+certainly       当然
 suit
 teacher
-living
-suits
-personal
-national
+living          活的
+suits           西装
+personal        个人的
+national        国家的
 she's
-experience
+experience      经验
 button
 engineers
-even
+even            甚至
 member
 waiting
 movie
@@ -514,88 +514,88 @@ pm
 blood
 game
 young
-slipped
+slipped         滑到了
 write
-flight
+flight          航班
 hotel
-dancing
-lights
+dancing         跳舞
+lights          灯
 mountains
-equipment
+equipment       设备
 Green
-population
-favor
-wedding
+population      人口
+favor           赞成
+wedding         婚礼
 address
-issue
-factories
-university
-located
+issue           问题
+factories       工厂
+university      大学
+located         位于
 station
-saw
-hang
-boat
-dark
-sick
-practice
-land
-Mrs
-toast
-Central
+saw             see的过去式;
+hang up         挂
+boat            船
+dark            黑暗的
+sick            生病
+practice        实践
+land            土地
+Mrs             太太
+toast           吐司
+Central         中央
 calling
-bought
+bought          buy的过去分词和过去式
 airport
 farms
-earlier
+earlier         早些时候
 cold
-hard
-picnic
+hard            难的
+picnic          野餐
 talking
 hair
 coming
-North
-accept
-floor
-November
+North           北方
+accept          接受
+floor           地面
+November        十一月
 wrong
 holiday
-sore
-rained
-family
+sore            疼痛
+rained          下雨了
+family          
 during
-plays
+plays           play 的三单
 language
-cows
-medicine
+cows            奶牛
+medicine        药品
 eating
-longer
-reception
-fit
-sleepy
-Washington
+longer          比较长
+reception       接待
+fit             合身
+sleepy          困
+Washington      华盛顿
 lock
 position
-baseball
+baseball        棒球
 blue
 area
 thanks
-chance
-begin
-stamps
-football
-receiver
-nearly
-works
-taken
-thinking
-wide
+chance          机会
+begin           开始
+stamps          邮票
+football        足球
+receiver        接收者
+nearly          几乎
+works           作品
+taken           采取
+thinking        
+wide            宽的
 suitcases
 professional
 decide
 bad
 employee
 later
-behind
+behind          在后面
 buying
 stay
 photography
@@ -1504,7 +1504,7 @@ friendly
 use
 possibility
 wheat
-anniversary
+anniversary     周年纪念日
 Outlet
 otherwise
 avocation
