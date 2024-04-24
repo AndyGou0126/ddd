@@ -54,14 +54,14 @@ from
 woman
 took
 dog
-different
+different       不同的
 saying
 its
 time
 with
 one
 glass
-went
+went            go的过去式;
 eyes
 John
 into
@@ -70,9 +70,9 @@ no
 things
 shut
 between
-sorts
+sorts           种类
 Smith
-pot
+pot             锅
 them
 we
 open
@@ -80,10 +80,10 @@ air
 girl
 water
 through
-icebox
+icebox          冰箱
 an
-questions
-taking
+questions       问题
+taking          正在拿
 out
 boy
 up
@@ -92,16 +92,15 @@ body
 off
 under
 warm
-flame
+flame           火焰
 clock
 cold
 money
 did
-nose
-fork
+nose    
+fork            叉子
 when
 clear
-F
 windows
 potatoes
 man's
@@ -109,38 +108,33 @@ branch
 came
 have
 cheese
-B
 be
 Hat
-feet
-tray
-G
+feet            脚
+tray            托盘
 some
-H
 three
-their
+their           他们的
 bottle
 picture
 floor
 fingers
 legs
 face
-plates
+plates          盘子
 Apple
 yes
 get
 books
 spoon
-basket
-glasses
+basket          篮子
+glasses         眼睛
 going
-parts
+parts           部分
 soft
 after
 our
-D
 arms
-e
 go
 part
 keeps
@@ -151,27 +145,27 @@ leg
 woman's
 foot
 hard
-meat
+meat        肉
 before
 does
-butter
+butter      黄油
 your
 ice
 tree
 knife
-seats
+seats          座位
 hook
 book
-bread
+bread       面包
 doing
-spoons
-shelf
-saw
-another
+spoons      勺子
+shelf       架子
+saw         see的过去式
+another     
 hair
 ears
 key
-giving
+giving      给予
 baby
 long
 but
@@ -179,85 +173,82 @@ roots
 made
 box
 animals
-wind
+wind        
 coming
-plant
+plant       植物
 wall
 shoes
-thick
-plate
+thick       厚的
+plate       盘子
 left
 take
 apples
-sees
+sees        see的第三人称单数
 mouths
-John's
-knives
+knives      刀 复数
 keep
-cows
+cows        cow复数
 were
 oranges
-forks
-dresses
-together
+forks       fork复数
+dresses     dress的复数
+together    一起
 make
 son
-seat
+seat        座位
 making
-street
+street      街道
 men
 new
 women
 coat
 had
-heat
+heat        热
 good
 daughter
 very
 potato
 him
-fruit
+fruit       水果
 right
-then
-C
+then        然后
 father
-store
+store       店铺
 hats
 goes
 brother
 eggs
-chin
+chin        下巴
 finger
 food
 dress
 short
-said
+said        say的过去分词和过去式
 four
-bookshelves
+bookshelves     书架
 people
-boiling
-bone
+boiling     沸腾
+bone        骨头
 girls
 gave
 having
-drawer
+drawer      抽屉
 seven
-d
 bird
 five
-thumb
-chest
+thumb       拇指
+chest       胸部
 apple
 for
 low
-liquid
+liquid      液体
 those
 down
 same
 tail
 give
 ship
-drawers
+drawers     抽屉 复数
 front
 me
 sheep
@@ -267,61 +258,61 @@ arm
 building
 Miss
 got
-flames
-pocket
+flames      火焰 复数
+pocket      口袋
 eight
 doors
 cup
 mr
 dog's
-birds
-measuring
-houses
-steam
-instrument
-gloves
-pipe
+birds       鸟类
+measuring   测量
+houses      house 复数
+steam       蒸汽
+instrument  乐器
+gloves      手套
+pipe        管道
 mother
-teeth
-leaves
+teeth       牙齿 tooth的复数
+leaves      树叶  复数
 high
 drink
 lock
 boys
-cover
+cover       覆盖
 girl's
 eye
-getting
+getting     得到
 back
 mary
 tables
 chair
 name
-fruits
+fruits      fruit复数
 sister
-stockings
+stockings   长筒女袜
 am
 answer
-boxes
-sort
-stem
+boxes       箱子 复数
+sort        种类
+stem        茎
 line
 Ms
-knee
+knee        膝盖
 comes
 ships
 boy's
-frame
-plants
+frame       框架
+plants      植物 复数
 Mary's
-Paige
+Paige       人名
 ready
 come
-neck
+neck        脖子
 mountains
 isn't
 horse
-sides
+sides       侧面
 covers
 says
 noses
@@ -329,83 +320,80 @@ family
 tasting
 leaf
 sisters
-horses
-yard
+horses      马匹 复数
+yard        院子
 pigs
 thing
 six
 earth
 old
 happy
-toes
-hade
+toes        脚趾
+hade        ???
 bit
-E
 pages
-hunt
-goats
-salt
+hunt        狩猎
+goats       山羊
+salt        盐
 breath
-babies
-measure
+babies      婴儿 复数
+measure     措施
 women's
-inches
+inches      英寸
 flower
-knees
+knees       膝盖
 pig
 clothing
 it's
-crushing
+crushing    压碎
 names
-ms
-cow
+ms          
+cow         
 ten
-meri
+meri        ???
 bad
-light
+light       光
 II
-bodies
+bodies      身体 复数
 orange
-solid
+solid       坚硬的
 numbers
 daughters
 rooms
 he/she/it
-tooth
-jane
+tooth       牙齿 单数
+jane        简（女子名）
 taste
 nine
 all
-Heat
-hooks
+hooks       钩子
 meet
 push
 or
 person
 skin
-Shelf
 Oh
-seventy
-hop
+seventy     七十
+hop         跳
 thin
-shelves
+shelves     货架
 cow's
 keys
 o'clock
-hate
-cord
+hate        恨
+cord        绳索
 airplanes
 mark
 side's
 airplane
-thumbs
-sixty
+thumbs      拇指
+sixty       六十
 brothers
 marks
-bottles
+bottles     瓶子 复数
 smith
 us
-toe
+toe         脚趾
 plane
 nobody
 tom
