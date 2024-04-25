@@ -33,7 +33,7 @@ has
 water
 an
 be
-than
+than        比
 put
 Sun
 her
@@ -71,12 +71,12 @@ get
 when
 side
 light
-motion
+motion          运动
 up
 Smith
 goes
 three
-miles
+miles           英里
 great
 us
 glass
@@ -103,50 +103,50 @@ after
 warm
 where
 wood
-distance
+distance        距离
 cold
 as
 time
-attraction
+attraction      吸引力
 boy
 putting
-bent
+bent            弯曲
 far
-knowledge
-pleasure
-train
-their
+knowledge       知识
+pleasure        乐趣
+train           火车
+their           他们的
 feet
 all
 more
-roof
+roof            屋顶
 old
 box
 my
 peach
-straight
+straight        直的
 day
 pencil
-blow
-thread
+blow            ???
+thread          线
 your
-different
+different       不同的
 right
-heat
-beautiful
-opposite
-needle
+heat            热
+beautiful   
+opposite        对面的
+needle          针
 every
 Apple
 money
 book
 letter
-change
+change          改变
 days
 weight
-cloth
-ball
-salt
+cloth           布
+ball            球
+salt            盐
 because
 keeps
 cause
@@ -169,7 +169,7 @@ card
 turning
 plate
 trees
-pain
+pain        疼痛
 bodies
 bag
 fall
@@ -182,7 +182,7 @@ touching
 Jane
 sorts
 air
-equal
+equal       等于
 taking
 house
 part
@@ -194,11 +194,11 @@ questions
 men
 rain
 dirty
-feeling
+feeling     感觉
 am
 sends
 clean
-station
+station     车站
 first
 trains
 shoes
@@ -208,22 +208,22 @@ sea
 coming
 before
 hair
-seat
+seat        
 came
 then
 tree
 longer
-journey
+journey         旅行
 sent
 shorter
 seem
 writing
-cotton
-cover
-wool
+cotton          棉花
+cover   
+wool            羊毛
 year
-cents
-smell
+cents           美分
+smell           闻
 ticket
 reading
 over
@@ -231,39 +231,39 @@ cut
 herself
 street
 across
-changes
+changes         改变
 again
 high
-farther
+farther         更远
 eyes
-inches
+inches          英寸
 sugar
 sky
 white
-hearing
+hearing         听力
 half
-got
+got         
 yes
 mouth
 angle
-gives
-nearer
+gives           给出
+nearer          更近
 back
 false
-trousers
+trousers        裤子
 new
 under
 way
 small
-greater
+greater         更大
 sees
 middle
 word
 airplane
 say
 gets
-town
-stronger
+town            城镇
+stronger        更强
 hundred
 went
 measuring
@@ -275,28 +275,28 @@ let
 seeing
 apples
 full
-sweet
+sweet           甜的
 bit
 keep
-transport
+transport       运输
 body
-feelings
+feelings        感觉
 times
 York
 said
 night
-wider
+wider           更宽的
 noise
 finger
-certain
-socks
+certain         肯定
+socks           袜子
 New
-hole
+hole            洞
 amount
-senses
+senses          感官
 clouds
 had
-chord
+chord           和弦
 strong
 nails
 ways
