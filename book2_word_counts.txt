@@ -298,21 +298,21 @@ clouds
 had
 chord           和弦
 strong
-nails
+nails           指甲
 ways
-narrow
+narrow          狭窄的
 baby
 taste
 equals
 river
 its
 those
-letters
-quarter
+letters         字母
+quarter         四分之一
 cat
-rest
-direction
-bright
+rest            休息
+direction       方向
+bright          明亮的
 ears
 smile
 picture
@@ -322,15 +322,15 @@ important
 hammer
 thin
 today
-chief
-wide
-threads
+chief           首领 主要
+wide            宽的
+threads         线程
 looking
 himself
-thick
+thick           厚的
 left
-desire
-sense
+desire          欲望
+sense           感觉
 door
 about
 tomorrow
@@ -338,13 +338,13 @@ bad
 who
 send
 Moon
-basin
+basin           盆
 inch
 discovery
 six
 if
 spring
-pins
+pins            针脚
 bank
 near
 most
@@ -352,38 +352,38 @@ together
 use
 paper
 Angeles
-Mexico
+Mexico          墨西哥
 south
-leaves
+leaves          树叶
 room
-silk
+silk            丝绸
 sometimes
 short
 dollars
 last
 friends
-directions
+directions      方向
 learning
 dark
 north
 Los
-wet
+wet             湿的
 touch
 star
-Washington
+Washington      华盛顿
 women
 puts
 flowers
 note
 getting
-Ottawa
+Ottawa          渥太华
 done
-rate
+rate            速率
 idea
 mountains
-seen
+seen            见过
 soft
-shoe
+shoe            鞋
 question
 dollar
 snow
@@ -398,9 +398,9 @@ potatoes
 stars
 Street
 morning
-knife
+knife           
 smaller
-looking-glass
+looking-glass       镜子
 Monday
 a.m
 waiting
@@ -412,10 +412,10 @@ steps
 thousand
 sound
 shirts
-dry
+dry                 干燥
 eh
 quick
-place
+place               地方
 soap
 bed
 story
@@ -425,11 +425,11 @@ lines
 pin
 others
 better
-months
+months              月
 airplanes
-blade
-seeds
-nail
+blade               刀刃
+seeds               种子
+nail                指甲
 food
 front
 pencils
@@ -439,37 +439,37 @@ pigs
 brush
 taxi
 ten
-yards
-cord
+yards               码（距离单位）
+cord                绳索
 look
 blue
-takes
+takes               take的第三人称单数;
 wrong
-plant
-yard
+plant               植物
+yard                院子
 engine
 laugh
 goat
 taken
-powder
+powder              粉末
 ends
-measure
+measure             测量
 summer
 eggs
 ships
 horse
 discoveries
-east
-land
+east                东方
+land    
 says
-hard
-boots
+hard                难的
+boots               靴子
 tasting
 yesterday
-education
-February
+education           教育
+February            二月
 horses
-nearest
+nearest             最近的
 Adam
 only
 Eve
@@ -477,44 +477,43 @@ colors
 forty
 nine
 account
-scissors
+scissors            剪刀
 orange
-places
+places              地方
 America
 office
 names
 sixty
 table
-steam
-tongue
-Tuesday
-brushing
-lips
-h
+steam               蒸汽
+tongue              舌头
+Tuesday             周二
+brushing            刷牙
+lips                嘴唇
 accounts
 cup
-knee
-given
+knee                膝盖
+given               给定
 milk
 ideas
-flame
-loud
-quicker
-toothpaste
-thicker
+flame               火焰
+loud                大声
+quicker             更快
+toothpaste          牙膏
+thicker             更厚的
 p.m
 post
 Smith's
 teaching
 California
-eye
+eye                 眼睛
 kept
-January
-month
-Newton's
+January             一月
+month               月
+Newton's            牛顿的
 week
 size
-shelf
+shelf               架子
 Tom's
 oh
 ready
@@ -523,274 +522,274 @@ giving
 enough
 San
 second
-pot
+pot                 锅
 button
-falling
+falling             坠落
 guns
-effect
-statement
-million
-farmer
+effect              效果
+statement           陈述
+million             百万
+farmer              农民
 price
 umbrella
-Massachusetts
+Massachusetts       马萨诸塞州
 business
 love
 building
-harder
+harder              更难
 animals
-States
+States              状态
 man's
 fat
 black
 crying
 girl's
 numbers
-hanging
+hanging             绞刑
 washing
-farming
-automobiles
-birds
-wheel
-grass
-state
+farming             农业
+automobiles         汽车
+birds               鸟类
+wheel               车轮
+grass               草
+state               状态
 shirt
 itself
-collar
-toothbrush
+collar              衣领
+toothbrush          牙刷
 wind
 noises
-saw
+saw                 see的过去式
 boys
 raining
 store
-cart
-sounds
-boiling
-light-years
+cart                手推车
+sounds              声音
+boiling             沸腾
+light-years         光年
 walking
 less
 color
 parts
-Francisco
-spoon
-whistle
-wheels
+San Francisco       旧金山
+spoon               勺子
+whistle             吹口哨
+wheels              轮子
 United
 teeth
-scale
+scale               规模
 sending
 dogs
-stamp
+stamp               邮票
 buttons
-rails
+rails               导轨
 minutes
 pockets
 [Music]
 waves
 flower
 holes
-buses
+buses               公共汽车
 watches
-trillion
+trillion            兆
 skin
-paint
-red
+paint               画
+red 
 twenty
-stick
+stick               粘贴
 happy
 keeping
 State
-Maine
-field
-instrument
+Maine               缅因州
+field               场地
+instrument          乐器
 oranges
 father
-comb
-effects
+comb                梳子
+effects             效果
 eight
 mine
-winter
-hairpin
+winter              冬天
+hairpin             发夹
 Oh
 River
-broken
+broken              破碎的
 Newton
 yellow
 around
 branch
 brain
 sizes
-coats
+coats               外套
 kettle
 seventeen
-square
+square              正方形
 too
 away
 teacher
-thoughts
+thoughts            想法
 teachers
-heads
+heads               头
 warmer
 minute
 legs
-being
-knives
+being               存在
+knives              刀
 painting
 friend
 Earth
 roots
 soup
-pleasures
-July
-statements
-Braille
-gloves
-Friday
+pleasures           乐趣
+July                七月
+statements          声明
+Braille             盲文
+gloves              手套
+Friday              星期五
 foot
-pounds
+pounds              磅
 arm
 talk
 mountain
 it's
-resting
-rough
+resting             休息
+rough               粗糙的
 everything
 swimming
 banks
 beds
 something
-October
+October             十月
 girls
 young
-Thursday
+Thursday            周四
 working
-measures
+measures            措施
 answers
-April
-August
-nose
-instruments
+April               四月
+August              八月
+nose                鼻子
+instruments         仪器
 person
-west
-wave
-eighty
+west                西方
+wave                海浪
+eighty              八十
 rose
 seats
-hairbrush
+hairbrush           发刷
 clocks
 tall
-callers
+callers             来电者
 branches
 Lisa
 persons
-deep
-December
-bread
-Mississippi
-causes
-mind
+deep                深的
+December            十二月
+bread               面包
+Mississippi         密西西比州
+causes              原因
+mind                头脑
 mother
-bottle
-glasses
+bottle              瓶子
+glasses             眼镜
 hat
 please
 walls
-June
-blowing
+June                六月
+blowing             吹
 fruit
-seemed
-November
+seemed              似乎
+November            十一月
 seven
-desires
+desires             欲望
 number
-silkworm
+silkworm            蚕
 pipes
 government
-smooth
-thirty
-well
-September
-West
+smooth              光滑的
+thirty              三十
+well                出色地
+September           九月
+West                西方
 cheese
-Sunday
-shaking
+Sunday              星期日
+shaking             摇晃
 laughing
-Columbus
-older
-while
+Columbus            哥伦布
+older               较老的
+while               尽管
 swim
 cloud
 don't
-plow
+plow                犁
 newspaper
 step
-addition
+addition            添加
 shut
 able
-meat
-twisting
+meat                肉
+twisting            扭转
 top
 tom
 pen
-strange
+strange             奇怪的
 cow
 pocket
-May
+May                 可能
 mile
 smelling
-cutting
+cutting             切割
 streets
 swimmer
 bus
-Mackenzie
+Mackenzie           麦肯齐
 window
-roll
+roll                卷
 low
 garden
 gray
-worse
+worse               更差
 slower
 balls
 frame
 quickest
-attempt
-railroads
-science
+attempt             试图
+railroads           铁路
+science             科学
 wasn't
-March
+March               行进
 banking
-Wednesday
-Saturday
+Wednesday           周三
+Saturday            周六
 taller
 green
-mines
+mines               地雷
 hairs
-facing
-Mona
+facing              面对
+Mona                莫娜
 twenty-one
-carriages
+carriages           车厢
 writer
-nailing
+nailing             钉牢
 Government
 thickest
 Canada
-glove
+glove               手套
 row
 sleep
 windows
-meters
+meters              米
 tea
-least
-thumb
+least               至少
+thumb               拇指
 walk
-hammering
+hammering           锤击
 postcard
 buildings
 Islands
 deepest
-railroad
-Voltaire
+railroad            铁路
+Voltaire            伏尔泰
 deeper
 music
 Birds
@@ -800,52 +799,52 @@ carts
 icebox
 boy's
 goats
-buttonholes
-bell
-worm
-ever
+buttonholes         扣眼
+bell                钟
+worm                虫
+ever                曾经
 pull
-automobile
-Saul
+automobile          汽车
+Saul                扫罗
 church
 play
-thousands
-brushes
-basins
-bitter
-worst
+thousands           数千
+brushes             刷子
+basins              盆地
+bitter              苦的
+worst               最糟糕的
 Leafs
 unhappy
-learner
+learner             学习者
 cleaner
 pig
-combing
+combing             梳理
 chain
-nineteen
-happier
+nineteen            十九
+happier             更快乐
 SS
-shifts
-stems
+shifts              转变
+stems               茎
 eleven
-twist
+twist               捻
 smith's
 lock
-bits
+bits                位
 we'll
-cop
-skies
-Abed
+cop                 警察
+skies               天空
+Abed                在床上
 changed
-shake
+shake               摇
 support
 fifteen
-butter
-hardest
+butter              黄油
+hardest             最难的
 farm
 songs
-Spade
-angles
-stalking
+Spade               铲
+angles              角度
+stalking            跟踪
 open
 boot
 named
@@ -854,13 +853,13 @@ eighteen
 softest
 song
 harbor
-farthest
-lease
+farthest            最远
+lease               租
 er
-maker
+maker               制作者
 bedroom
 lets
-paintbrush
+paintbrush          画笔
 key
 drop
 best
@@ -872,122 +871,122 @@ living
 road
 letterbox
 hook
-Jay
-Goes
+Jay                 杰伊
+Goes                去
 clear
-doe
+doe                 母鹿
 seventy
-narrowest
-hairpins
+narrowest           最窄的
+hairpins            发夹
 maps
-island
-John
+island  
+John                约翰
 th
 Day
-Leonardo
-whenever
+Leonardo            列奥纳多
+whenever            每当
 map
 buttonhole
 tickets
 cows
-roofs
+roofs               屋顶
 English
 Thin
-plates
-flames
-mary
-washcloth
+plates              盘子
+flames              火焰
+mary                玛丽
+washcloth           面巾
 sun
 check
 bone
-bucket
+bucket              桶
 changing
 JD
 sand
 set
-court
+court               法庭
 board
-highest
-notes
-Bar
+highest             最高
+notes               笔记
+Bar                 酒吧
 rivers
-blows
+blows               打击
 smoking
 hey
-chin
-clog
-slow
-cuts
+chin                下巴
+clog                阻塞
+slow    
+cuts                削减
 Falls
 cry
-distances
-North
-fixed
-stockings
-noses
-drying
+distances           距离
+North               北
+fixed               固定的
+stockings           丝袜
+noses               鼻子
+drying              烘干
 Man
 life
 so
 she's
-dough's
+dough's             面团的
 youngest
 wash
 root
-doorway
-ninety
-quarters
+doorway             门口
+ninety              
+quarters            宿舍
 skirt
-plowing
-twelve
-governments
-point
-painter
+plowing             耕作
+twelve              十二
+governments 
+point       
+painter             画家
 Down
-north-south-east-west
-basin's
-states
-springs
-widest
-dresses
+north-south-east-west       北，南，东，西
+basin's             盆地的
+states              状态
+springs             泉水
+widest              最宽
+dresses             连衣裙
 What
 monkey
-ray
-housekeeper
+ray                 射线
+housekeeper         管家
 Maps
 lookingglass
-gun
+gun                 枪
 higher
-Isaac
+Isaac               艾萨克
 ourselves
 talking
-attached
+attached            随附的
 supports
 push
-plough
+plough              犁
 words
-sock
-fingernail
+sock                短袜
+fingernail          指甲
 cards
 colder
 lower
-accord
+accord              符合
 tables
 hats
-Nia
-sixteen
+Nia                 尼亚
+sixteen             十六
 gifts
 watch
 bookstore
 towns
-marks
+marks               分数
 pictures
 offices
-fork
-Thomas
+fork                叉
+Thomas              托马斯
 I'm
-spade
-Harbor
+spade               铲
+Harbor              港口
 o'clock
 pipe
 sheep's
@@ -1002,17 +1001,17 @@ II
 leafs
 locks
 forty-one
-houses
+houses              房屋
 warming
 would
 family
-trays
-seaside
-keeper
+trays               托盘
+seaside             海滨
+keeper              守门员
 thing
-arms
-dirtiest
+arms                武器
+dirtiest            最脏的
 Bell
 oldest
 Sir
-gee
+gee                 哎呀
