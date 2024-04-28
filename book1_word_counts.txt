@@ -128,7 +128,7 @@ get
 books
 spoon
 basket          篮子
-glasses         眼睛
+glasses         眼镜
 going
 parts           部分
 soft
