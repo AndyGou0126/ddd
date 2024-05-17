@@ -338,7 +338,7 @@ bad
 who
 send
 Moon
-basin           盆
+basin           洗手盆
 inch
 discovery
 six
@@ -810,7 +810,7 @@ church
 play
 thousands           数千
 brushes             刷子
-basins              盆地
+basins              洗手盆
 bitter              苦的
 worst               最糟糕的
 Leafs

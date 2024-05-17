@@ -271,7 +271,7 @@ houses      house 复数
 steam       蒸汽
 instrument  乐器
 gloves      手套
-pipe        管道
+pipe        烟斗
 mother
 teeth       牙齿 tooth的复数
 leaves      树叶  复数

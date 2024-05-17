@@ -28,3 +28,88 @@ East
 South
 West
 North
+
+
+一般现在时现在时
+his hat is in his hand 
+it is in his hand
+
+一般过去时  主语 + 动词过去式 + 其他
+it was on his head 
+he took his hat off 
+
+一般将来时  will + 原形动词 - 表示将来要做的动作
+he will take his hat off his head 
+
+现在进行时  be + 动词的现在分词 (ing) - 表示正在进行的动作
+he is taking his hat off his head
+
+过去进行时  主语 + was/were + 动词的现在分词（动词+ing） + 其他
+I was walking            
+They were playing
+
+现在完成时  主语 + have/has + 动词的过去分词（past participle） + 其他
+I have lived in Tianjin for ten years
+
+过去将来时  would + 动词原形和was/were going to + 动词原形。
+She thought she would finish her homework by 8 PM.
+At that time, he was going to start a new job.
+
+过去完成时  had+过去分词（pastparticiple）
+I had finished my work by 5 PM.
+
+
+原形        过去式          过去分词
+be	        was/were	    been
+have	    had	            had
+do	        did	            done
+go	        went	        gone
+come	    came	        come
+see	        saw	            seen
+take	    took	        taken
+get	        got	            got/gotten (美式英语)
+make	    made	        made
+know	    knew	        known
+think	    thought	        thought
+give	    gave	        given
+find	    found	        found
+tell	    told	        told
+feel	    felt	        felt
+become	    became	        become
+leave	    left	        left
+put	        put	            put
+mean	    meant	        meant
+keep	    kept	        kept
+
+原级        比较级          最高级(the)
+tall	    taller	        tallest
+big	        bigger	        biggest
+small	    smaller	        smallest
+happy	    happier	        happiest
+good	    better	        best
+bad	        worse	        worst
+fast	    faster	        fastest
+slow	    slower	        slowest
+hot	        hotter	        hottest
+cold	    colder	        coldest
+old	        older	        oldest
+young	    younger	        youngest
+
+
+形容词变副词
+1.添加后缀 -ly：大多数情况下，将形容词的末尾的 "y" 改为 "i"，然后再加上后缀 "-ly"，即可变为对应的副词形式。例如：
+quick (形容词) -> quickly (副词)
+happy (形容词) -> happily (副词)
+2.不规则变化
+good (形容词) -> well (副词)
+fast (形容词) -> fast (副词)
+hard (形容词) -> hard (副词)
+
+名词单数变复数
+cat     cats
+child   children
+foot    feet
+
+名词所有格
+Tom's book
+The students' books
