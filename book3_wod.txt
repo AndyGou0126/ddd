@@ -59,6 +59,17 @@ At that time, he was going to start a new job.
 I had finished my work by 5 PM.
 
 
+
+将来时被动语态 will be done
+it will be done by me
+
+现在进行时被动语态 is being done
+it is being done by me
+
+一般过去时被动语态 was done
+it was done by me
+
+
 原形        过去式          过去分词
 be	        was/were	    been
 have	    had	            had
