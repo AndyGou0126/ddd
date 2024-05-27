@@ -13,16 +13,16 @@ who
 what
 your
 name
-Paige
+Paige           ???
 the
 first
-statement
+statement       陈述
 in
 English
 through
 pictures
 book
-ep
+ep 1            第一集
 that
 uses
 about
@@ -60,16 +60,16 @@ see
 on
 map
 it
-Germany
-Philippines
+Germany         德国
+Philippines     菲律宾
 Brazil
 Australia
-Kenya
+Kenya           肯尼亚
 some
 other
 there
 millions
-readers
+readers         读者
 used
 almost
 every
@@ -79,17 +79,16 @@ asks
 main
 answers
 my
-Jean
-Schmidt
+Jean Schmidt    让·施密特
 come
 from
 were
-born
+born            出生
 these
 asking
 question
-Geneva
-Switzerland
+Geneva          日内瓦
+Switzerland     瑞士
 have
 any
 relations
@@ -99,7 +98,7 @@ father's
 brother
 lives
 Boston
-Massachusetts
+Massachusetts   马萨诸塞州
 USA
 five
 when
@@ -109,7 +108,6 @@ date
 age
 was
 January
-th
 years
 old
 at
@@ -119,7 +117,7 @@ long
 many
 eight
 work
-occupation
+occupation      职业
 cook
 six
 people
@@ -129,21 +127,20 @@ she
 Japan
 her
 an
-Indian
+Indian          印度人
 he
-India
+India           印度
 his
 Chinese
-German
-French
-polish
-Swiss
+German          德国人
+French          法国人
+polish          波兰人
+Swiss           瑞士人
 seven
-United
-States
-America
-fathers
-mothers
+United States   美国（正式）
+America         美国（日常）
+fathers         父亲们
+mothers         母亲们
 went
 to
 England
@@ -153,15 +150,15 @@ Italy
 Poland
 Russia
 them
-sailed
-sailing
-ships
+sailed          航行
+sailing         航行
+ships           船
 before
 days
-steamships
+steamships      轮船
 sons
 daughters
-most
+most            大部分
 Americans
 they
 got
@@ -176,11 +173,11 @@ little
 land
 for
 size
-population
+population      人口
 has
 less
 than
-Canada
+Canada          加拿大
 not
 much
 but
@@ -194,12 +191,12 @@ going
 up
 between
 million
-greater
-populations
+greater         更大
+populations     人口
 North
 South
-increase
-increased
+increase        增加
+increased       增加
 by
 last
 today
@@ -210,19 +207,19 @@ each
 increasing
 only
 person
-represents
-graph
-lets
+represents      代表
+graph           图表
+lets            ？？？
 us
-states
-scale
+states          状态
+scale           比例尺
 if
 look
 two
 will
-smaller
+smaller         较小
 which
-Indonesia
+Indonesia       印度尼西亚
 room
 greatest
 good
@@ -234,29 +231,29 @@ be
 able
 well
 earth
-amount
+amount          数量
 food
 need
-billion
+billion         十亿
 can
 get
 cannot
 strong
 relation
 been
-changing
-twice
+changing        改变
+twice           两次
 world
 year
 go
-curve
+curve           曲线
 since
 makes
 way
 hundred
 ninety-six
-could
-needed
+could           可以
+needed  
 because
 healthy
 everywhere
@@ -271,72 +268,70 @@ half
 cities
 our
 time
-century
-hard
+century         世纪
+hard            难
 city
 next
 names
 Tokyo
-twenty
+twenty          二十
 Mexico
 City
-Salle
+Salle           大厅
 Paulo
-Seoul
+Seoul           首尔
 Korea
 Shanghai
 New
 York
 sixteen
-Bombay
+Bombay          孟买
 Beijing
 fourteen
 Los
 Angeles
-Osaka
+Osaka           大板
 eleven
-Tehran
-Iran
+Tehran          德黑兰
+Iran            伊朗
 twelve
-Rio
-de
-Janeiro
+Rio de Janeiro  里约热内卢
 thirteen
-Calcutta
+Calcutta        加尔各答
 no
-Sade's
-Argentina
-Manila
-Jakarta
+Sade's          ？？？
+Argentina       阿根廷
+Manila          马尼拉
+Jakarta         雅加达
 seventeen
-Lagos
-Nigeria
+Lagos           拉各斯
+Nigeria         尼日利亚
 eighteen
-Cairo
-Egypt
+Cairo           开罗
+Egypt           埃及
 nineteen
-Delhi
-Karachi
-Pakistan
+Delhi           德里
+Karachi         卡拉奇
+Pakistan        巴基斯坦
 made
 living
 buildings
-machines
+machines        机器
 doing
 sorts
 steam
 electric
 power
-factories
-factory
-furniture
+factories       工厂
+factory         工厂
+furniture       家具
 workers
 make
 tables
 chairs
-peach
+peach           桃
 we
-materials
+materials       材料
 things
 transported
 distances
@@ -345,36 +340,36 @@ transport
 lines
 important
 such
-iron
-mined
+iron            铁
+mined           开采的
 places
-steel
-metals
-centuries
+steel           钢
+metals          金属
+centuries   
 far
-supply
+supply          供应
 thousands
 place
 sort
 high
 pictured
-being
+being           存在
 put
 apartment
 houses
 sometimes
 hundreds
-families
+families        家庭
 under
-roof
-floors
+roof            屋顶
+floors          楼层
 house
 homes
-floor
-stores
+floor           楼层
+stores          商店
 buy
 clothing
-supplies
+supplies        补给品
 everything
 sell
 icebox
@@ -382,19 +377,19 @@ day
 meat
 milk
 fruit
-store
+store           
 near
 home
 foods
 sent
 children
 family
-quarts
-persons
+quarts          夸脱 液体单位
+persons         人（复数）
 husband
 wife
 woman's
-married
+married         已婚
 milkman
 outside
 door
@@ -402,17 +397,17 @@ early
 morning
 started
 light
-measured
-gallons
-pint
-quart
-bottles
-cartons
-liters
+measured        测量的
+gallons         加仑
+pint            品脱
+quart           夸脱
+bottles 
+cartons         纸箱
+liters          升
 leader
-cans
-canned
-canning
+cans            罐头
+canned          罐头的
+canning         罐头
 bought
 soups
 meats
@@ -421,35 +416,35 @@ air
 bad
 kept
 cold
-gone
-poison
-poisons
+gone            消失了
+poison          毒
+poisons         毒药
 die
-after
-dies
-dead
+after   
+dies            死了
+dead            死的
 few
 hand
-shelves
+shelves         货架
 cupboard
 solid
-liquid
+liquid          液体
 gas
 cooking
 piped
-cooker
+cooker          炊具
 use
 working
 themselves
 out
 restaurants
-meals
+meals           膳食
 needing
 restaurant
 keeps
 clean
 let
-flies
+flies           苍蝇
 butter
 cheese
 bread
@@ -457,15 +452,15 @@ eggs
 play
 fresh
 must
-supplied
+supplied        提供的
 open
-uncovered
+uncovered       裸露
 dirty
 feet
-stored
-grain
+stored          已存储
+grain           粮食
 night
-feed
+feed            喂养
 comes
 trains
 trucks
@@ -477,7 +472,7 @@ we're
 drinking
 cows
 farms
-miles
+miles           英里
 away
 price
 bottle
@@ -487,15 +482,15 @@ taken
 governments
 fat
 never
-seen
+seen            见过
 cow
-taught
+taught          教过的
 xxx
 best
 babies
 older
 too
-energy
+energy          活力
 building
 bodies
 bones
@@ -505,46 +500,42 @@ drink
 glasses
 addition
 bill
-Kazon
-vitamins
+Kazon           卡松
+vitamins        维生素
 discovery
 ago
 knew
 anything
 named
-letters
-alphabet
-vitamin
-A
+letters         字母
+alphabet        字母
+vitamin         维他命
 eyes
 green
 body
-B
 eat
 skins
-C
 without
 become
-loose
+loose           松动的
 arms
 legs
-weak
+weak            虚弱的
 lemons
 oranges
 tomatoes
-D
 Sun
 sunlight
 skin
 water
-alive
+alive           活
 know
 effects
 animals
-scientists
-putting
+scientists      科学家们
+putting         推杆
 knowledge
-amounts
+amounts         金额
 wrong
 feeling
 birds
@@ -553,10 +544,10 @@ grass
 plant
 grows
 narrow
-leaves
-puts
+leaves          树叶
+puts            放下
 down
-roots
+roots           根
 grasses
 growing
 small
@@ -564,23 +555,23 @@ seeds
 discovered
 grow
 larger
-wheat
+wheat           小麦
 rice
-corn
-grains
-lands
-planted
+corn            玉米
+grains          谷物
+lands           土地
+planted         种植的
 part
-grasslands
+grasslands      草原
 fruits
 season
 rivers
 fish
 sea
-plants
+plants          植物
 had
 until
-uncooked
+uncooked        生的
 fire
 hadn't
 keeping
@@ -589,26 +580,26 @@ having
 looking
 winter
 spring
-flour
-chief
+flour           面粉
+chief           首席
 seed
 pounds
 pound
-farmers
+farmers         农民
 public
 money
-eastern
-eaten
+eastern         东
+eaten           吃过
 would
 better
 something
 nothing
 shut
 ask
-everybody
+everybody       大家
 answer
-nobody
-worse
+nobody      
+worse           更差
 strange
 so
 grown
@@ -617,25 +608,25 @@ private
 needs
 pleasure
 making
-happier
+happier         更快乐
 isn't
 happy
-another's
+another's       另一个人的
 aren't
 dark
 line
-around
-moon
+around          大约
+moon    
 back
 hand-in-hand
 said
-angles
-triangle
+angles          角度
+triangle        三角形
 equal
 then
 sides
-minds
-increasingly
+minds           头脑
+increasingly    日益
 touch
 reading
 writing
@@ -644,94 +635,94 @@ television
 photographs
 faces
 idea
-bent
+bent            弯曲
 glass
 camera
 taking
 inside
-upside
+upside          好处
 [Music]
 getting
 radio
 telephone
 word
-Atlantic
-Pacific
+Atlantic        大西洋
+Pacific         太平洋
 second
-wires
+wires           电线
 came
 send
 sounds
 distance
 TV
-powers
+powers          权力
 let's
 talk
-while
+while           尽管
 sit
 seeing
-standing
+standing        常设
 front
 can't
 saying
 don't
 learn
-foreign
+foreign         外国的
 languages
 people's
 becoming
 young
 business
-baskets
+baskets         篮子
 quicker
-once
+once            一次
 mother's
 carrying
 baby
-carries
-wherever
+carries         携带
+wherever        无论在哪里
 learned
-insects
-carried
-airplanes
+insects         昆虫
+carried         携带的
+airplanes   
 hearing
 hear
 ears
 side
 space
-telescope
+telescope       望远镜
 mountains
-microscope
+microscope      显微镜
 drop
-statements
-earlier
+statements      声明
+earlier         早些时候
 heard
-whether
+whether         无论
 history
 voice
 carry
-instruments
+instruments     仪器
 men
 women
 knows
-worst
+worst           最糟糕的
 singers
 noise
 makers
-wings
-feathers
-stems
-wing
-hollow
+wings           翅膀
+feathers        羽毛
+stems           茎
+wing            翅膀
+hollow          空洞的
 bee
-beetle
+beetle          甲虫
 fly
-butterfly
+butterfly       
 bees
-beetles
-attempting
+beetles         甲虫
+attempting      尝试
 flying
-machine
+machine         机器
 sky
 did
 fast
@@ -739,39 +730,38 @@ faster
 fastest
 bird
 heavy
-weights
+weights         重量
 sound
-newest
+newest          最新
 planes
-bridged
+bridged         桥接的
 bridge
 wide
 river
-mile
-automobiles
+mile            英里
+automobiles     汽车
 across
-mines
+mines           地雷
 thought
 ideas
 mind
 past
-present
+present         展示
 read
-wrote
+wrote           写道
 books
 future
-records
-thoughts
+records         记录
+thoughts        想法
 feelings
-desires
+desires         欲望
 common
-mean
-meaning
-Smiths
-Wong's
-wives
-husbands
-Y's
+mean            意思是
+meaning         意义
+Smiths          史密斯斯
+Wong's          黄氏
+wives           妻子们
+husbands        丈夫们
 flag
 it's
 talking
@@ -779,129 +769,126 @@ someone
 him
 says
 parents
-saw
-meant
+saw             锯
+meant           意思是
 baby's
-commonly
+commonly        通常
 learning
-think
-thinking
-done
-Mandarin
-Cantonese
-Hindi
-Russian
-Spanish
-Portuguese
-Arabic
-Bengali
-ever
+think           思考
+thinking    
+done            完毕
+Mandarin        普通话
+Cantonese       广东话
+Hindi           印地语
+Russian         俄语
+Spanish         西班牙语
+Portuguese      葡萄牙语
+Arabic          阿拉伯
+Bengali         孟加拉
+ever            曾经
 talked
 teaching
 worked
-attempt
+attempt         试图
 teach
-recordings
+recordings      录音
 voices
 listen
-sentences
+sentences       句子
 CDs
-discs
-tapes
-meanings
-motion
+discs           光盘
+tapes           磁带
+meanings        含义
+motion          运动
 help
-learners
+learners        学习者
 groups
 teachers
 teacher
-learner
-newer
-invention
-began
+learner         学习者
+newer           较新的
+invention       发明
+began   
 begin
 write
-Mesopotamia
+Mesopotamia     美索不达米亚
 later
-Palestine
-marks
-sticks
-sharp
-stones
+Palestine       巴勒斯坦
+marks           分数
+sticks          棍子
+sharp           锋利的
+stones          石头
 beginning
-represent
-Egyptian
+represent       代表
+Egyptian        埃及人
 mark
-present-day
-reader
+present-day     今天
+reader          读者
 newspaper
 Moon
 bright
-humanity
-harder
-inward
-spell
-written
-spelling
+humanity        人性
+harder          更难
+inward          向内的
+spell           拼写
+written         书面
+spelling        拼写
 system
-hardest
-complete
-Roman
-Italian
-given
-spelled
+hardest         最难的
+complete        完全的
+Roman           罗马
+Italian         意大利语
+given           给定
+spelled         斯佩尔特
 letter
-aa
 again
 fall
-e
-Ian
-Bell
+Ian             伊恩
+Bell            钟
 week
 effect
-upon
-G
-unlike
-felt
-well-trained
-ear
-Englishman
-American
-nearest
-mother
-spaces
-sentence
+upon            之上
+unlike          不像
+felt            毛毡
+well-trained    训练有素的
+ear 
+Englishman      英国人
+American        美国人
+nearest         最近的
+mother          母亲
+spaces          空间
+sentence        句子
 giving
 try
 easy
-seem
-easily
-grown-ups
-Finland
-whose
-Finnish
+seem            似乎
+easily          容易地
+grown-ups       大人
+Finland         芬兰
+whose           谁的
+Finnish         芬兰
 helped
 turn
 known
 always
 watching
 want
-fixed
+fixed           固定的
 change
 bed
-rails
+rails           导轨
 train
-freer
+freer           自由者
 airplane
 free
-direction
+direction       方向
 true
 helping
 account
-works
+works           作品
 walk
 writers
-necessary
+necessary       必要的
 breathe
 breath
 face
@@ -913,344 +900,344 @@ heads
 mouths
 noses
 nose
-lungs
+lungs           肺
 man's
 soft
-sponges
-pipes
+sponges         海绵
+pipes           
 branching
 branches
 tree
-lung
-upper
-chest
+lung            肺
+upper           上
+chest           胸部
 blood
 moving
-round
-journey
+round           圆形的
+journey         旅行
 short
 red
 finger
 cut
-pints
+pints           品脱
 person's
 bank
 takes
-waste
-cells
-cell
+waste           浪费
+cells           细胞
+cell            细胞
 own
 development
-flames
-flame
+flames          火焰
+flame           火焰
 quick
 cigarette
 lighting
 match
-lighter
-burns
-burn
-fires
-fuel
-stream
-bloodstream
+lighter         打火机
+burns           烧伤
+burn            烧伤
+fires           火灾
+fuel            燃料
+stream          溪流
+bloodstream     血流
 fishes
-oxygen
-changes
-completely
+oxygen          氧
+changes         变化
+completely      完全地
 months
 heart
 sends
-pump
-letting
-sending
-pumping
-pumps
+pump            泵
+letting         出租
+sending         
+pumping         泵送
+pumps           泵
 rooms
 doors
-valves
-muscle
-arteries
-veins
-artery
+valves          阀门
+muscle          肌肉
+arteries        动脉
+veins           静脉
+artery          动脉
 broken
-vein
+vein            静脉
 discover
-althrough
+althrough       始终
 dr
-William
-Harvey
-circulation
-opposite
+William         威廉
+Harvey          哈维
+circulation     循环
+opposite        对面的
 ends
 fingers
-toes
-muscles
+toes            脚趾
+muscles         肌肉
 move
 head
 pjt
-burning
+burning         燃烧
 took
-ashes
+ashes           骨灰
 wood
-coal
-unite
-fuels
-burned
+coal            煤炭
+unite           团结
+fuels           燃料
+burned          烧毁
 opening
 window
 full
-carbon
-dioxide
+carbon          碳
+dioxide         二氧化碳
 boys
 breathing
-deeply
+deeply          深
 watch
-awake
+awake           苏醒
 sleeping
-conscious
-automatic
+conscious       有意识的
+automatic       自动的
 minute
-rate
+rate            速度
 shuts
 off
 mouth
-thumb
+thumb           拇指
 hold
-wise
-unconscious
+wise            明智的
+unconscious     无意识
 smoke
 higher
-pressure
-weight
-above
+pressure        压力
+weight          重量
+above           多于
 becomes
-thinner
-instrument
-measure
-barometer
+thinner         更薄
+instrument      乐器
+measure         措施
+barometer       晴雨表
 top
 highest
 mountain
 Mount
-Everest
+Everest         珠穆朗玛峰
 control
-below
-shutting
-valve
+below           以下
+shutting        关闭
+valve           阀门
 controls
-breathes
-pumped
+breathes        呼吸
+pumped          泵送的
 opened
-candle
-lighted
+candle          蜡烛
+lighted         点燃的
 cover
 stops
 running
 hearts
 sitting
-automatically
-controlled
+automatically   自动地
+controlled      受控
 couldn't
-temperature
-warm-blooded
-degrees
-Fahrenheit
-ill
+temperature     温度
+warm-blooded    热血的
+degrees         度
+Fahrenheit      华氏度
+ill             患病的
 stop
-thermometer
+thermometer     温度计
 feel
 unwell
 doctor
 hospital
 nurse
-patient's
+patient's       患者
 tongue
 minutes
 warm
 weather
-shivers
-motions
+shivers         发抖
+motions         动议
 ourselves
-shivering
+shivering       发抖
 body's
-heating
+heating         加热
 run
 hot
 drinks
-warmly
+warmly          热烈地
 beds
 heat
-wet
-cools
+wet             湿的
+cools           冷却
 left
 waiting
 wind
 feels
-thirsty
-training
-shortest
-possible
+thirsty         渴
+training        训练
+shortest        最短
+possible        可能的
 runners
 wants
 record
 runs
 hour
 runner
-pulse
-wrist
+pulse           脉冲
+wrist           手腕
 counting
-pulsing
+pulsing         脉动的
 runner's
 story
-scientist
-Galileo
+scientist       科学家
+Galileo         伽利略
 lived
 watches
-measuring
+measuring       测量
 sixteenth
-clocks
+clocks          钟表
 Church
 Pisa
-hanging
-chain
+hanging         绞刑
+chain           链
 moved
-forward
-seemed
-turns
-however
-timed
-proof
-prove
-pendulum
-among
+forward         向前
+seemed          似乎
+turns           轮流
+however         然而
+timed           定时的
+proof           证明
+prove           证明
+pendulum        摆
+among           之中
 clock
-per
+per             每
 walked
 walking
-slowly
+slowly          慢慢地
 pay
 paid
-communist
+communist       共产
 paying
-worker
-piece
-rates
+worker          工人
+piece           片
+rates           费率
 dollars
 UK
-exchange
+exchange        交换
 dollar
 $
-cents
+cents           美分
 August
 table
-printed
-both
+printed         打印
+both            两个都
 hands
 east
 west
-Ocean
-timekeeper
+Ocean           海洋
+timekeeper      计时员
 even
-Egyptians
-Greeks
-stars
-flat
-seems
+Egyptians       埃及人
+Greeks          希腊人
+stars   
+flat            平坦的
+seems           似乎
 ball
-Greek
-Latin
-science
-large
+Greek           希腊语
+Latin           拉丁
+science         科学
+large           
 plate
 journeying
 end
 find
-though
+though          尽管
 north
-Marco
-Polo
+Marco           马可
+Polo            马球
 East
-Columbus
+Columbus        哥伦布
 Far
-Christopher
-laughed
+Christopher     克里斯托弗
+laughed         笑了
 ship
-half-hour
-sandglass
+half-hour       
+sandglass       沙漏
 turned
 sand
 ran
-Indians
-Spain
-knowing
+Indians         印第安人
+Spain           西班牙
+knowing         会心
 found
-continent
+continent       大陆
 life
-peoples
-Aztecs
-Incas
-Peru
-Americas
-Alaska
-Magellan
-sailor
-Portugal
+peoples         人们
+Aztecs          阿兹特克人
+Incas           印加人
+Peru            秘鲁
+Americas        美洲
+Alaska          阿拉斯加州
+Magellan        麦哲伦
+sailor          水手
+Portugal        葡萄牙
 south
-Cape
+Cape            岬
 Good
 Hope
 himself
 died
-Philippine
-Islands
+Philippine      菲律宾语
+Islands         岛屿
 April
-proved
-might
-Copernicus
-pollen
-sense
-writings
-Shakespeare
+proved          证实
+might           可能
+Copernicus      哥白尼
+pollen          花粉
+sense           感觉
+writings        著作
+Shakespeare     莎士比亚
 Stars
 star
-NIR
-spots
+NIR             近红外
+spots           斑点
 moon's
-planet
-Jupiter
-universe
+planet          行星
+Jupiter         木星
+universe        宇宙
 clear
-anymore
-prison
-Ptolemy
-Newton
+anymore         不再
+prison          监狱
+Ptolemy         托勒密
+Newton          牛顿
 became
 watcher
-recorder
+recorder        录音机
 answering
 recording
-comparing
+comparing       比较
 proving
 natural
-laws
+laws            法律
 accounts
 workings
-shoulders
-Kepler
+shoulders       肩膀
+Kepler          开普勒
 law
-gravitation
-attraction
-Newtons
-Einstein
+gravitation     引力
+attraction      景点
+Newtons         牛顿
+Einstein        爱因斯坦
 younger
 developing
-clearer
-truer
-microscopes
+clearer         更清晰
+truer           更真实
+microscopes     显微镜
 middle
-structure
-human
+structure       结构
+human           人类
 surprise
 worlds
 anyone
@@ -1258,266 +1245,259 @@ developed
 looked
 death
 sleep
-snakes
+snakes          蛇
 asleep
-unless
-rest
+unless          除非
+rest            休息
 pull
 hungry
 questions
-pinpoint
+pinpoint        查明
 eye
-housekeeping
-divide
+housekeeping    家政
+divide          划分
 daughter
 show
-division
-separate
-divided
-surface
+division        分配
+separate        分离
+divided         分为
+surface         表面
 boiling
-Earth's
-thick
+Earth's         
+thick           厚的
 clouds
-rounded
+rounded         圆形的
 raining
 salt
 waters
 deep
-celled
-organisms
-%
-earliest
+celled          细胞的
+organisms       有机体
+earliest        最早的
 swam
 seawater
-billions
+billions        数十亿
 washed
-overheated
+overheated      过热
 eh
 eating
 looks
-bit
-jelly
-thin
+bit             少量
+jelly           果冻
+thin            薄的
 wall
-openings
+openings        开口
 walls
-nucleus
-organizes
+nucleus         核
+organizes       组织
 London
 Britain
 seat
 government
-developments
+developments    事态发展
 step
 simple
 highly
-complex
+complex         复杂的
 thing
-simpler
+simpler         更简单
 wheel
 stone
 flower
-stem
-dependent
+stem            干
+dependent       依赖的
 shows
 falling
-holding
+holding         保持
 act
-depends
-timing
-cubic
-millimeter
-thousandth
-meter
-tenth
-centimeter
-cube
+depends         依靠
+timing          定时
+cubic           立方体
+millimeter      毫米
+thousandth      千分之一
+meter           仪表
+tenth   
+centimeter      厘米
+cube            立方体
 inch
 paper
 yourself
 soap
 pencil
-squares
-scissors
-outer
-faults
-edges
-centimetre
+squares         正方形
+scissors        剪刀
+outer           外
+faults          故障
+edges           边缘
+centimetre      厘米
 square
-centimeters
+centimeters     厘米
 trees
-tallest
+tallest         
 sixty-four
 California
 trunk
-thickest
-point
+thickest        最厚的
+point           观点
 growth
-organism
+organism        生物
 coming
-fifth
-divisions
-outcome
-halves
+fifth           第五
+divisions       部门
+outcome         结果
+halves          一半
 ready
-separated
+separated       分开
 simplest
 build
-chemistry
+chemistry       化学
 built
-hydrogen
-represented
-chemists
-formula
+hydrogen        氢
+represented     代表
+chemists        化学家
+formula         公式
 h2o
-formulas
-material
-proteins
-structures
-chemist
-compare
-protein
-nitrogen
-S
-sulphur
+formulas        公式
+material        材料
+proteins        蛋白质
+structures      结构
+chemist         化学家
+compare         比较
+protein         蛋白质
+nitrogen        氮
+sulphur         硫
 hair
-nails
-digestion
-controlling
-surprisingly
-within
-experience
-experiment
-bean
-starting
-daylight
-Joseph
-Priestley
-discoverer
+nails           指甲
+digestion       消化
+controlling     控制
+surprisingly    出奇
+within          之内
+experience      经验
+experiment      实验
+bean            豆
+starting        
+daylight        日光
+Joseph          约瑟夫
+Priestley       普里斯特利
+discoverer      发现者
 mouse
-neither
-nor
-Dutch
-Priestley's
+neither         两者都不
+nor             也不
+Dutch           荷兰语
 builds
 sugars
-straight
-h
-co
-carbohydrates
-carbohydrate
+straight        直的
+carbohydrates   碳水化合物
+carbohydrate    糖类
 sugar
-photosynthesis
-depend
-either
-von
-Mayer
-experimenting
-certainly
-scientific
-industry
-microscopic
-maybe
-oceans
-complexes
-oil
+photosynthesis  光合作用
+depend          依靠
+either          任何一个
+Mayer           迈尔
+experimenting   实验
+certainly       当然
+scientific      科学的
+industry        行业
+microscopic     微观的
+maybe           
+oceans          海洋
+complexes       复合物
+oil             油
 sun's
 cars
-taste
+taste           品尝
 smell
 color
-soil
-fix
-animal
+soil            土壤
+fix             使固定
+animal  
 support
-plans
-fallen
-forms
+plans           计划
+fallen          堕落
+forms           形式
 care
 love
 grew
-cotton
-sheets
-watched
-Sheep
-wool
-blankets
-equally
-self-supporting
-candles
-plows
-carts
+cotton          棉布
+sheets          床单
+watched         看过
+Sheep       
+wool            羊毛
+blankets        毯子
+equally         一样
+self-supporting 自养的
+candles         蜡烛
+plows           犁
+carts           推车
 farm
-pH
-whom
-schools
+whom            谁
+schools         
 hospitals
 police
 stations
-clearing
-upkeep
-streets
+clearing        清算
+upkeep          保养
+streets         街道
 roads
-services
+services        服务
 daily
-whatever
-plays
-interest
-interested
-philosopher
-Plato
+whatever        任何
+plays           戏剧
+interest        兴趣
+interested      感兴趣的
+philosopher     哲学家
+Plato           柏拉图
 root
-rightly
-children's
-dating
+rightly         正确地
+children's      孩子们的
+dating          约会
 music
 dancing
 friends
 friend
-pitch
+pitch           沥青
 beautiful
-drawing
-drawings
-copied
-BC
-easier
-drawn
-painting
-sculpture
-pieces
+drawing         绘画
+drawings        图纸
+copied          复制的
+BC              公元前
+easier          更轻松
+drawn           画
+painting        绘画
+sculpture       雕塑
+pieces          件
 Africa
-still
+still           仍然
 arts
-banan
-happily
-copies
+banan           巴南
+happily         高兴地
+copies          副本
 played
 art
-galleries
-museums
-paintings
-artists
-theaters
-acted
+galleries       画廊
+museums         博物馆
+paintings       绘画
+artists         艺术家
+theaters        剧院
+acted           采取行动
 libraries
-poetry
-hours
-alone
-nations
-British
-Russians
-Germans
-directions
-bridges
+poetry          诗歌
+hours           小时
+alone           独自的
+nations         国家
+British         英国人
+Russians        俄罗斯人
+Germans         德国人
+directions      方向
+bridges         桥梁
 yesterday
 meeting
 shake
 health
 they're
-means
+means           方法
 set
-tired
+tired           疲劳的
 NOT
 stayed
 hello
