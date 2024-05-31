@@ -60,14 +60,30 @@ I had finished my work by 5 PM.
 
 
 
+一般现在时现在时 被动语态 主语 + am/is/are + 过去分词
+The house is cleaned every day. (这房子每天都被打扫。)
+
+一般过去时被动语态 was done
+it was done by me
+
 将来时被动语态 will be done
 it will be done by me
 
 现在进行时被动语态 is being done
 it is being done by me
 
-一般过去时被动语态 was done
-it was done by me
+过去进行时被动语态  主语 + was/were + being + 过去分词
+A new product was being developed by the company.
+
+现在完成时被动语态  主语 + has/have + been + 过去分词
+The project has been completed. (这个项目已经完成了。)
+
+过去将来时被动语态  主语 + would be + 过去分词
+The package would be delivered.
+
+过去完成时被动语态  主语 + had been + 过去分词
+The work had been finished. (工作已经完成了。)
+
 
 
 原形        过去式          过去分词
