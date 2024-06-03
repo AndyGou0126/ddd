@@ -1,3 +1,28 @@
+statement       陈述
+farther         更进一步
+Philippines     菲律宾
+Filipinos       菲律宾人
+these           这些
+Geneva          日内瓦
+Switzerland     瑞士
+Swiss           瑞士人
+Massachusetts   马萨诸塞州
+occupation      职业
+India           印度
+Indian          印度人
+sailed          航行
+steamships      轮船
+represents      代表
+graph           图形
+scale           比例尺
+Indonesia       印度尼西亚
+curve           曲线
+furniture       家具
+materials       材料
+iron            铁
+steel           钢
+metals          金属
+
 Monday 
 Tuesday 
 Wednesday 
