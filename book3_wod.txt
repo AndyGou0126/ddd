@@ -22,6 +22,39 @@ materials       材料
 iron            铁
 steel           钢
 metals          金属
+centuries       世纪
+supply          供应
+quarts          夸脱
+pint            品脱
+gallons         加仑
+measured        计量
+poisons         毒药
+solid           固体
+liquid          液体
+flies           苍蝇
+uncovered       没盖好
+stored          储存
+grain           谷物
+feed            饲养
+taught          教
+energy          能量
+letters of the alphabet 字母表中的字母。
+loose           松动
+weak            无力
+wheat           小麦
+rice            大米
+corn            玉米
+planted         种植
+flour           面粉
+eastern countries  东方国家
+angles          三角
+triangle        三角形
+increasingly    越来越
+bent            弯曲
+upside          颠倒
+Atlantic        大西洋
+Pacific         太平洋
+wires           电线
 
 Monday 
 Tuesday 
@@ -74,14 +107,14 @@ I was walking
 They were playing
 
 现在完成时  主语 + have/has + 动词的过去分词（past participle） + 其他
-I have lived in Tianjin for ten years
+I have lived in Tianjin for ten years（这个人还在tianjin才对）
+
+过去完成时  had+过去分词（pastparticiple）
+I had finished my work by 5 PM.
 
 过去将来时  would + 动词原形和was/were going to + 动词原形。
 She thought she would finish her homework by 8 PM.
 At that time, he was going to start a new job.
-
-过去完成时  had+过去分词（pastparticiple）
-I had finished my work by 5 PM.
 
 
 
@@ -103,11 +136,11 @@ A new product was being developed by the company.
 现在完成时被动语态  主语 + has/have + been + 过去分词
 The project has been completed. (这个项目已经完成了。)
 
-过去将来时被动语态  主语 + would be + 过去分词
-The package would be delivered.
-
 过去完成时被动语态  主语 + had been + 过去分词
 The work had been finished. (工作已经完成了。)
+
+过去将来时被动语态  主语 + would be + 过去分词
+The package would be delivered.
 
 
 
